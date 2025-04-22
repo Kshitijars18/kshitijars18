@@ -16,6 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kshitija-shivade-01a362191/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kshitijashivade" height="30" width="40" /></a>
+<a href="https://x.com/Kshitijars18?t=SOMzpoJwx0PkePyuB2X_ww&s=08" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Twitter_Logo_2021.svg" alt="Kshitijars18" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
