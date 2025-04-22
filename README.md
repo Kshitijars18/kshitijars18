@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitija Shivade</h1>
 <h3 align="center">Salesforce Developer @ IBM | Apex & LWC Enthusiast | Learning by Building 🚀</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijars18&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijars18" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitijars18&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijars18" /> </p> -->
 
 - 🔭 I’m currently working on [Internal Salesforce Automation Projects]((private/internal projects, hence no public link))
 
